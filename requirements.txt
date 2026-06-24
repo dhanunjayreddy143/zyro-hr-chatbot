@@ -1,0 +1,14 @@
+pypdf
+faiss-cpu
+sentence-transformers
+torch
+transformers
+huggingface-hub
+langchain-core
+langchain-text-splitters
+langchain-community
+langchain-huggingface
+langchain-groq
+langchain
+streamlit
+cryptography
